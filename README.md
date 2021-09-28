@@ -4,7 +4,7 @@ DiscorBotSimples.js-v13</h1><br/>
 
 ## **Instalação | Como usar o bot**
 
- **1.**  Instale [node.js v16](https://nodejs.org/en/) ou superior
+ **1.**  Instale o [node.js v16](https://nodejs.org/en/) ou superior
 
  **2.** Baixe este repositório e descompacte-o | ou git clone
  
